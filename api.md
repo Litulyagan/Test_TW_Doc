@@ -41,6 +41,6 @@ charity.donation.amount.currency | string, required | Код валюты в ф�
 
 Пример созданного объекта `charity`
 
-![](https://drive.google.com/file/d/1z6lkHoNPctdQLkp6cNBHjM_Kzv2CJ7g8/view?usp=sharing)
+![](https://raw.githubusercontent.com/Litulyagan/Test_TW_Doc/main/code.bmp)
 
  Шаг 3. После того как платеж перейдет в статус `waiting_for_capture`, [спишите](https://yookassa.ru/developers/payments/payment-process#capture) оплату.
